@@ -9,6 +9,7 @@ media
 .env
 .venv
 env/
+venv/
 ENV/
 env.back/
 venv.bak/
